@@ -16,7 +16,7 @@ blockquote:not(.alignleft):not(.alignright) {margin-left: -28px;}
 blockquote blockquote:not(.alignleft):not(.alignright) {margin-left: 0;}
 blockquote:before, blockquote:after {content: "";display: table;}
 blockquote:after {clear: both;}
-blockquote > :last-child {margin-bottom: 0;}
+blockquote>:last-child {margin-bottom: 0;}
 blockquote cite, blockquote small {color: #1a1a1a;font-size: 16px;line-height: 1.75;}
 blockquote em, blockquote i, blockquote cite {font-style: normal;}
 blockquote strong, blockquote b {font-weight: 400;}
@@ -33,14 +33,14 @@ sub {bottom: -3px;}
 small {font-size: 80%;}
 big {font-size: 125%;}
 hr {background-color: #d1d1d1;border: 0;height: 1px;margin-bottom: 28px;}
-ul, ol {margin: 0 0 28px 0;padding: 0;}
+ul, ol {margin: 0 0 28px;padding: 0;}
 ul {list-style: disc;}
 ol {list-style: decimal;}
-li > ul, li > ol {margin-bottom: 0;}
-li > ul, blockquote > ul {margin-left: 20px;}
-li > ol, blockquote > ol {margin-left: 24px;}
+li>ul, li>ol {margin-bottom: 0;}
+li>ul, blockquote>ul {margin-left: 20px;}
+li>ol, blockquote>ol {margin-left: 24px;}
 dl {margin: 0 0 28px;}
-dt {font-weight: bold;}
+dt {font-weight: 700;}
 dd {margin: 0 0 28px;}
 table, th, td, .mce-item-table, .mce-item-table th, .mce-item-table td {border: 1px solid #d1d1d1;}
 table a {color: #007acc;}
@@ -56,7 +56,7 @@ fieldset {border: 1px solid #d1d1d1;margin: 0 0 28px;padding: 14px;}
 .alignleft {float: left;margin: 6px 28px 28px 0;}
 .alignright {float: right;margin: 6px 0 28px 28px;}
 .aligncenter {clear: both;display: block;margin: 0 auto 28px;}
-.wp-caption {background: transparent;border: none;margin-bottom: 28px;max-width: 100%;padding: 0;text-align: inherit;}
+.wp-caption {background: 0 0;border: none;margin-bottom: 28px;max-width: 100%;padding: 0;text-align: inherit;}
 .wp-caption-text, .wp-caption-dd {color: #686868;font-size: 13px;font-style: italic;line-height: 1.6153846154;padding-top: 7px;}
 .mce-content-body .wpview-wrap {margin-bottom: 28px;}
 .gallery {margin: 0 -1.1666667%;padding: 0;}
@@ -74,12 +74,12 @@ fieldset {border: 1px solid #d1d1d1;margin: 0 0 28px;padding: 14px;}
 .wp-audio-shortcode a, .wp-playlist a {box-shadow: none;}
 .mce-content-body .wp-audio-playlist {margin: 0;padding-bottom: 0;}
 .mce-content-body .wp-playlist-tracks {margin-top: 0;}
-.mce-content-body  .wp-playlist-item {padding: 10px 0;}
+.mce-content-body .wp-playlist-item {padding: 10px 0;}
 .mce-content-body .wp-playlist-item-length {top: 10px;}
 .rtl blockquote {border: 0 solid #1a1a1a;border-right-width: 4px;}
 .rtl blockquote.alignleft, .rtl blockquote.alignright {border: 0 solid #1a1a1a;border-top-width: 4px;}
 .rtl blockquote:not(.alignleft):not(.alignright) {margin-right: -28px;padding: 0 24px 0 0;}
 .rtl blockquote blockquote:not(.alignleft):not(.alignright) {margin-right: 0;margin-left: auto;}
-.rtl li > ul, .rtl blockquote > ul {margin-right: 20px;margin-left: auto;}
-.rtl li > ol, .rtl blockquote > ol {margin-right: 24px;margin-left: auto;}
+.rtl li>ul, .rtl blockquote>ul {margin-right: 20px;margin-left: auto;}
+.rtl li>ol, .rtl blockquote>ol {margin-right: 24px;margin-left: auto;}
 .rtl table th, .rtl .mce-item-table th, .rtl table caption {text-align: right;}
