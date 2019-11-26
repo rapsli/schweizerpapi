@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.schweizerpapi.ch/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//rapsli.github.io/schweizerpapi/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://static.schweizerpapi.ch/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/</loc>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/hippie-bus/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/hippie-bus/</loc>
 		<lastmod>2017-07-25T05:10:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s3-eu-central-1.amazonaws.com/schweizerpapi.ch/wp-content/uploads/2017/07/24212549/23-durch-die-berge.jpg</image:loc>
@@ -12,7 +12,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/hippie-bus/unterwegs-im-hippie-bus-tage-1-bis-5/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/hippie-bus/unterwegs-im-hippie-bus-tage-1-bis-5/</loc>
 		<lastmod>2017-07-27T21:36:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s3-eu-central-1.amazonaws.com/schweizerpapi.ch/wp-content/uploads/2016/12/24205324/05-strand.jpg</image:loc>
@@ -40,7 +40,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/hippie-bus/unterwegs-im-hippie-bus-tage-6-bis-10/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/hippie-bus/unterwegs-im-hippie-bus-tage-6-bis-10/</loc>
 		<lastmod>2017-07-27T21:36:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s3-eu-central-1.amazonaws.com/schweizerpapi.ch/wp-content/uploads/2017/07/24205631/10-scheren-meer.jpg</image:loc>
@@ -92,7 +92,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/hippie-bus/unterwegs-im-hippie-bus-tage-11-bis-15/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/hippie-bus/unterwegs-im-hippie-bus-tage-11-bis-15/</loc>
 		<lastmod>2017-07-27T21:37:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s3-eu-central-1.amazonaws.com/schweizerpapi.ch/wp-content/uploads/2017/07/24210736/15-stockholm-hafen.jpg</image:loc>
@@ -148,7 +148,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/hippie-bus/unterwegs-im-hippie-bus-tage-16-bis-20/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/hippie-bus/unterwegs-im-hippie-bus-tage-16-bis-20/</loc>
 		<lastmod>2017-07-27T21:37:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s3-eu-central-1.amazonaws.com/schweizerpapi.ch/wp-content/uploads/2017/07/24211709/20-blick-vom-stellplatz.jpg</image:loc>
@@ -216,7 +216,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/hippie-bus/unterwegs-im-hippie-bus-tage-21-bis-25/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/hippie-bus/unterwegs-im-hippie-bus-tage-21-bis-25/</loc>
 		<lastmod>2017-07-27T21:38:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s3-eu-central-1.amazonaws.com/schweizerpapi.ch/wp-content/uploads/2017/07/24212554/23-es-geht-steil-nach-unten.jpg</image:loc>
@@ -316,7 +316,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/hippie-bus/unterwegs-im-hippie-bus-tage-26-bis-30/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/hippie-bus/unterwegs-im-hippie-bus-tage-26-bis-30/</loc>
 		<lastmod>2017-07-27T21:38:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s3-eu-central-1.amazonaws.com/schweizerpapi.ch/wp-content/uploads/2017/07/24214136/28-%C3%BCberfahrt.jpg</image:loc>
@@ -360,47 +360,47 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/checkout/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/checkout/</loc>
 		<lastmod>2017-07-28T08:46:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/checkout/purchase-confirmation/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/checkout/purchase-confirmation/</loc>
 		<lastmod>2017-07-28T08:46:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/checkout/transaction-failed/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/checkout/transaction-failed/</loc>
 		<lastmod>2017-07-28T08:46:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/checkout/purchase-history/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/checkout/purchase-history/</loc>
 		<lastmod>2017-07-28T08:46:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/shop/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/shop/</loc>
 		<lastmod>2017-07-28T09:05:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/cart/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/cart/</loc>
 		<lastmod>2017-07-28T09:05:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/checkout-2/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/checkout-2/</loc>
 		<lastmod>2017-07-28T09:05:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/my-account/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/my-account/</loc>
 		<lastmod>2017-07-28T09:05:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/welcome/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/welcome/</loc>
 		<lastmod>2017-07-28T09:15:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/blog/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/blog/</loc>
 		<lastmod>2017-07-28T09:15:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://static.schweizerpapi.ch/mein-leseprojekt-100-besten-buecher/</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/mein-leseprojekt-100-besten-buecher/</loc>
 		<lastmod>2017-12-15T06:16:23+00:00</lastmod>
 	</url>
 </urlset>
