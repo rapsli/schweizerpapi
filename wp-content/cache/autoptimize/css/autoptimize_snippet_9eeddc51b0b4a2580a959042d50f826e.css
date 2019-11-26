@@ -128,7 +128,7 @@
 .wp-block-image .aligncenter {margin-left: auto;margin-right: auto;}
 .wp-block-image figcaption {margin-top: .5em;margin-bottom: 1em;}
 .is-style-circle-mask img {border-radius: 9999px;}
-@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none) {.is-style-circle-mask img {-webkit-mask-image: url("data:image/svg+xml;utf8,<svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"50\"/></svg>");mask-image: url("data:image/svg+xml;utf8,<svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"50\"/></svg>");mask-mode: alpha;-webkit-mask-repeat: no-repeat;mask-repeat: no-repeat;-webkit-mask-size: contain;mask-size: contain;-webkit-mask-position: center;mask-position: center;border-radius: none;}}
+@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none) {.is-style-circle-mask img {-webkit-mask-image: url("data:image/svg+xml;utf8;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIvPjwvc3ZnPg==");mask-image: url("data:image/svg+xml;utf8;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIvPjwvc3ZnPg==");mask-mode: alpha;-webkit-mask-repeat: no-repeat;mask-repeat: no-repeat;-webkit-mask-size: contain;mask-size: contain;-webkit-mask-position: center;mask-position: center;border-radius: none;}}
 .wp-block-latest-comments__comment {font-size: 15px;line-height: 1.1;list-style: none;margin-bottom: 1em;}
 .has-avatars .wp-block-latest-comments__comment {min-height: 36px;list-style: none;}
 .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-excerpt, .has-avatars .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta {margin-left: 52px;}
@@ -178,7 +178,7 @@ p.has-text-color a {color: inherit;}
 .wp-block-pullquote p {font-size: 28px;line-height: 1.6;}
 .wp-block-pullquote cite, .wp-block-pullquote footer {position: relative;}
 .wp-block-pullquote .has-text-color a {color: inherit;}
-.wp-block-pullquote:not(.is-style-solid-color) {background: none;}
+.wp-block-pullquote:not(.is-style-solid-color) {background: 0 0;}
 .wp-block-pullquote.is-style-solid-color {border: none;}
 .wp-block-pullquote.is-style-solid-color blockquote {margin-left: auto;margin-right: auto;text-align: left;max-width: 60%;}
 .wp-block-pullquote.is-style-solid-color blockquote p {margin-top: 0;margin-bottom: 0;font-size: 32px;}
@@ -202,7 +202,7 @@ p.has-text-color a {color: inherit;}
 .wp-block-search .wp-block-search__input {flex-grow: 1;}
 .wp-block-search .wp-block-search__button {margin-left: 10px;}
 .wp-block-separator.is-style-wide {border-bottom-width: 1px;}
-.wp-block-separator.is-style-dots {background: none !important;border: none;text-align: center;max-width: none;line-height: 1;height: auto;}
+.wp-block-separator.is-style-dots {background: 0 0 !important;border: none;text-align: center;max-width: none;line-height: 1;height: auto;}
 .wp-block-separator.is-style-dots:before {content: "···";color: currentColor;font-size: 20px;letter-spacing: 2em;padding-left: 2em;font-family: serif;}
 .wp-block-social-links {display: flex;justify-content: flex-start;padding-left: 0;padding-right: 0;margin-left: 0;}
 .wp-social-link {width: 36px;height: 36px;border-radius: 36px;margin-right: 8px;}
@@ -248,7 +248,7 @@ p.has-text-color a {color: inherit;}
 .wp-block-social-links:not(.is-style-logos-only) .wp-social-link-wordpress {background-color: #3499cd;color: #fff;}
 .wp-block-social-links:not(.is-style-logos-only) .wp-social-link-yelp {background-color: #d32422;color: #fff;}
 .wp-block-social-links:not(.is-style-logos-only) .wp-social-link-youtube {background-color: #ff0100;color: #fff;}
-.wp-block-social-links.is-style-logos-only .wp-social-link {background: none;padding: 4px;}
+.wp-block-social-links.is-style-logos-only .wp-social-link {background: 0 0;padding: 4px;}
 .wp-block-social-links.is-style-logos-only .wp-social-link svg {width: 28px;height: 28px;}
 .wp-block-social-links.is-style-logos-only .wp-social-link-amazon {color: #f90;}
 .wp-block-social-links.is-style-logos-only .wp-social-link-bandcamp {color: #1ea0c3;}
