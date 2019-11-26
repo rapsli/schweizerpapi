@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.schweizerpapi.ch/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//rapsli.github.io/schweizerpapi/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://static.schweizerpapi.ch/post-sitemap.xml</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/post-sitemap.xml</loc>
 		<lastmod>2019-07-11T20:19:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.schweizerpapi.ch/page-sitemap.xml</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/page-sitemap.xml</loc>
 		<lastmod>2017-12-15T06:16:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.schweizerpapi.ch/category-sitemap.xml</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/category-sitemap.xml</loc>
 		<lastmod>2019-07-11T20:19:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.schweizerpapi.ch/post_tag-sitemap.xml</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/post_tag-sitemap.xml</loc>
 		<lastmod>2019-07-11T20:19:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.schweizerpapi.ch/author-sitemap.xml</loc>
+		<loc>https://rapsli.github.io/schweizerpapi/author-sitemap.xml</loc>
 		<lastmod>2017-07-30T20:46:38+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
